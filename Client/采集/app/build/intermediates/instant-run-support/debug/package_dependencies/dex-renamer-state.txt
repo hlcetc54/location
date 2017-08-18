@@ -1,0 +1,13 @@
+#Tue Aug 15 08:44:03 CST 2017
+renamed.3=classes3.dex
+renamed.2=classes4.dex
+renamed.1=classes.dex
+renamed.0=classes2.dex
+base.3=D\:\\hlDL\\tensorflowwifi\\Waffle1.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\neuroph-2.6_a48229b402f94d71c5e79415c06693a406b00f91
+base.2=D\:\\hlDL\\tensorflowwifi\\Waffle1.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\volley_0c7fa684f81787ff8317142375ca9220351a3b4f
+base.1=D\:\\hlDL\\tensorflowwifi\\Waffle1.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_6a776f89209c0962e0d4cda1b3182eef6b36a144
+base.0=D\:\\hlDL\\tensorflowwifi\\Waffle1.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\encog-engine-2.5.0_36becfbba63a2a2a32416cbf294c3fb1339b0091
+file.3=D\:\\hlDL\\tensorflowwifi\\Waffle1.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\neuroph-2.6_a48229b402f94d71c5e79415c06693a406b00f91\\classes.dex
+file.2=D\:\\hlDL\\tensorflowwifi\\Waffle1.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\volley_0c7fa684f81787ff8317142375ca9220351a3b4f\\classes.dex
+file.1=D\:\\hlDL\\tensorflowwifi\\Waffle1.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-v4-18.0.0_6a776f89209c0962e0d4cda1b3182eef6b36a144\\classes.dex
+file.0=D\:\\hlDL\\tensorflowwifi\\Waffle1.0\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\2\\encog-engine-2.5.0_36becfbba63a2a2a32416cbf294c3fb1339b0091\\classes.dex

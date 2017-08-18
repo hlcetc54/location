@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\hlDL\\tensorflowwifi\\Waffle1.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\classify.xml",
+        "source": "D:\\hlDL\\tensorflowwifi\\Waffle1.0\\app\\src\\main\\res\\menu\\classify.xml"
+    },
+    {
+        "merged": "D:\\hlDL\\tensorflowwifi\\Waffle1.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\gather.xml",
+        "source": "D:\\hlDL\\tensorflowwifi\\Waffle1.0\\app\\src\\main\\res\\menu\\gather.xml"
+    },
+    {
+        "merged": "D:\\hlDL\\tensorflowwifi\\Waffle1.0\\app\\build\\intermediates\\res\\merged\\debug\\menu\\start.xml",
+        "source": "D:\\hlDL\\tensorflowwifi\\Waffle1.0\\app\\src\\main\\res\\menu\\start.xml"
+    }
+]

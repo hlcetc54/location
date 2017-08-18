@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NN_wifi</string>
+    <string name="action_settings">设置</string>
+    <string name="title_activity_start">NN_wifi</string>
+    <string name="welcome_text">欢迎使用本软件，获取训练数据，按 \&quot;获取训练数据\&quot;按钮. 获取你当前位置, 按 \&quot;学习和分类\&quot; 按钮. </string>
+    <string name="title_activity_gather">获取数据</string>
+    <string name="title_activity_classify">你的位置</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

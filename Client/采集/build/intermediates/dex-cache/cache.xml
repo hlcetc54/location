@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\hlDL\tensorflowwifi\Waffle1.0\app\libs\encog-engine-2.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="1b7c39f87aabd9bdf336e225fdebfd3902801a51">
+        <dex dex="D:\hlDL\tensorflowwifi\Waffle1.0\app\build\intermediates\pre-dexed\debug\encog-engine-2.5.0_36becfbba63a2a2a32416cbf294c3fb1339b0091.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\hlDL\tensorflowwifi\Waffle1.0\app\src\main\libs\volley.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
+        <dex dex="D:\hlDL\tensorflowwifi\Waffle1.0\app\build\intermediates\pre-dexed\debug\volley_0c7fa684f81787ff8317142375ca9220351a3b4f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\hlDL\tensorflowwifi\Waffle1.0\app\libs\neuroph-2.6.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="190c3de07c62c10748c2f931d7544ad8281f6c56">
+        <dex dex="D:\hlDL\tensorflowwifi\Waffle1.0\app\build\intermediates\pre-dexed\debug\neuroph-2.6_a48229b402f94d71c5e79415c06693a406b00f91.jar" />
+    </item>
+
+</items>
